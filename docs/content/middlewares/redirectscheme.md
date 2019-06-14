@@ -22,7 +22,7 @@ kind: Middleware
 metadata:
   name: test-redirectscheme
 spec:
-  redirectScheme:
+  redirectscheme:
     scheme: https
 ```
 
